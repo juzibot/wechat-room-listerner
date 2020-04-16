@@ -7,3 +7,4 @@ https://github.com/wechaty/wechaty-getting-started
 ```sh
 node listener.js
 ```
+2. Send the keyword "ohi" to the bot and start a listening session
